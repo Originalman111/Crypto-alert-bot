@@ -8,3 +8,6 @@
     "restart": true
   }
 }
+requests
+pandas
+numpy
