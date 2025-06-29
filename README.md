@@ -11,3 +11,4 @@
 requests
 pandas
 numpy
+worker: python main.py
